@@ -1,7 +1,6 @@
+#saurajit test python
 
-import os
-os.system('clear');
-board=[' ' for x in range(10)]
+
 
 def insertLetter(letter, pos):
     board[pos]=letter
