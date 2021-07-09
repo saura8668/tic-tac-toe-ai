@@ -1,4 +1,4 @@
-
+#this is my project
 import os
 os.system('clear');
 board=[' ' for x in range(10)]
